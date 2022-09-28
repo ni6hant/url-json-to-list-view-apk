@@ -44,4 +44,4 @@ So I decided let's just make a Java Application which would clear HashMaps for m
 0.2 Pass in a local file to output a local JSON file
 0.3 Pass in a URL to output a JSON file on the internet
 0.4 Make an android application with a simple activity and differentiate it from a blank activity. This would help me in clearing some confusion on how to move between activities.
-0.5 
+0.5 ... Will see later
