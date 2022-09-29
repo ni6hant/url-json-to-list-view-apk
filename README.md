@@ -36,8 +36,8 @@ Now that I had veered off course and did this the wrong way, I am coming back to
 
 Also, I hated the codes that I saw. No detailed variable named declaration, what the hell is lv? How can you shorten a listView to lv is beyond me. Also, using the default data types like TextView1 and TextView2! If people are learning JAVA from YouTube with such tutorials, they are doomed. The supposed Master of Coding got confused himself as to what was going, while making the try and catch statement.
 I know anyone can get a bit confused. What bothers me is the way he tackled the problem. That's what's bothered me. He programmed line by line, a horrible way to program. This is not how [Mehran Sahami](https://see.stanford.edu/course/cs106a) taught me.
-Also, regarding the comments, they were non-existent. I am trying to remember who that great author was who also taught proramming, his lecture I watched. I will put his name and links once I find it, and he said,
-> Comments are not there to explain how the code works. Comments are there 
+Also, regarding the comments, they were non-existent. I remember watching a lecture given by Andy Harri[How to Think Like a Programmer](https://youtu.be/azcrPFhaY9k)
+> Comments are not there to explain your code to other programmers. Codes are there to explain the comments to the computer. - Andy Harris
 
 So I decided let's just make a Java Application which would clear HashMaps for me and if I can make a hasmap dummy by myself, maybe I can make the app. So, the roadmap for me is going to be the following along with the version I am going to update them with:
 0.1 Output the JSONObject to just display on String and learn a bit about Hashmaps
